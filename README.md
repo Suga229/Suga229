@@ -41,6 +41,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Suga229&theme=tokyonight" />
 </p>
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/USERNAME_KAMU/USERNAME_KAMU/output/github-contribution-grid-snake.svg" />
+</p>
+
 ---
 
 ## 📫 Connect With Me
