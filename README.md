@@ -46,21 +46,21 @@
 ## 🏆 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suga229&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 ## 📫 Connect With Me
 
-- 📧 Email: emailkamu@email.com
-- 💼 LinkedIn: Tambahkan link kamu
+- 📧 Email: agussunardi889@email.com
+- 💼 LinkedIn: coming soon
 - 🌍 Portfolio: Coming Soon
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=USERNAME_KAMU&label=Profile%20Views&color=6A5ACD&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Suga229&label=Profile%20Views&color=6A5ACD&style=for-the-badge" />
 </p>
 
 ---
