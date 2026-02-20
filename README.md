@@ -43,14 +43,6 @@
 
 ---
 
-## 🏆 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suga229&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 📫 Connect With Me
 
 - 📧 Email: agussunardi889@email.com
